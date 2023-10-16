@@ -25,3 +25,9 @@ h1 {
 	margin-left: auto;
 	margin-right: auto;
 }
+
+.credits {
+	font-size: 13px;
+	text-align: center;
+	margin-top: 100px;
+}
